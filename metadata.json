@@ -1,0 +1,6 @@
+{
+  "name": "AuraWealth - Finanzas Personales & Claridad Financiera",
+  "description": "Aplicación web de finanzas personales diseñada para brindar claridad, armonía visual y control sobre ingresos, gastos, ahorros y metas patrimoniales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
